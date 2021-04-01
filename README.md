@@ -22,9 +22,9 @@
 
 | Проекты       | Описание          | Технологии  | Ссылка на сборку |
 | ------------- | ----------------- | ----------- | ---------------- |
-| [Техномарт](https://github.com/korbutds/technomart) | Мой первый проект | HTML, CSS, Vanilla JavaScript (ES5) | [Интернет-магазин "Техномарт"](https://korbutds.github.io/technomart/) |
-| [Седона](https://github.com/korbutds/sedona) | Мой второй проект в рамках обучения | HTML, CSS, Vanilla JavaScript (ES5) | [Веб-сайт города Седона](https://korbutds.github.io/sedona/) |
-| [Мишка](https://github.com/korbutds/mishka) | Интернет-магазин милых вещиц | HTML, SCSS, Vanilla JavaScript (ES5), GULP, WEBPACK, adaptive, BEM | [Интернет-магазин "Мишка"](https://mis-git-master-korbutds.vercel.app/) |
+| [Техномарт](https://github.com/korbutds/technomart) | Разработка фиксированных страниц интернет-магазина "Техномарт" | HTML, CSS, Vanilla JavaScript (ES5) | [Интернет-магазин "Техномарт"](https://korbutds.github.io/technomart/) |
+| [Седона](https://github.com/korbutds/sedona) | Разработка фиксированных страниц сайта города Седона | HTML, CSS, Vanilla JavaScript (ES5) | [Веб-сайт города Седона](https://korbutds.github.io/sedona/) |
+| [Мишка](https://github.com/korbutds/mishka) | Разработка адаптивных страниц интернет-магазина милых вещиц "Мишка" | HTML, SCSS, Vanilla JavaScript (ES5), GULP, WEBPACK, adaptive, BEM | [Интернет-магазин "Мишка"](https://mis-git-master-korbutds.vercel.app/) |
 | [Кексобукинг](https://github.com/korbutds/keksobooking) | Кексобукинг — сервис размещения объявлений о сдаче в аренду недвижимости в центре Токио. | Vanilla JavaScript (ES5) | [Сайт аренды недвижимости "Кексобукинг"](https://korbutds.github.io/keksobooking/) |
 | [Big-trip](https://github.com/korbutds/big-trip) | «Большое путешествие» — современный сервис для настоящих путешественников. | Vanilla JavaScript (ES6), Chart.js, day.js, Flatpickr.js, Webpack | [«Большое путешествие»](https://big-trip-six.vercel.app/) |
 | [Шесть городов](https://github.com/korbutds/six-cities) | «Шесть городов» — сервис для путешественников, не желающих переплачивать за аренду жилья. | React, Redux, axios, leaflet, react hooks, reselect, webpack | [«Шесть городов»](http://six-cities-korbutds.vercel.app/) |
